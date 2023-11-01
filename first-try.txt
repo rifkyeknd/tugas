@@ -1,1 +1,2 @@
 Ini adalah mandiri pertama
+Saya sedang memahami Git
